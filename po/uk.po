@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Peninsula_Survival-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-10 12:56+0200\n"
-"PO-Revision-Date: 2012-09-10 12:56+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-11-07 09:42+0200\n"
+"Last-Translator: Igor Paliychuk <mansonigor@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -12,16 +12,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. [multiplayer]: id=2v2_Peninsula_Survival
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:22
 msgid "2v2 - Peninsula Survival"
-msgstr ""
+msgstr "2на2 - Виживання на Півострові"
 
 #. [multiplayer]: id=2v2_Peninsula_Survival
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:24
 msgid "2 vs 2 With Monster Spawns"
-msgstr ""
+msgstr "2 на 2 Із Плодінням Монстрів"
 
 #. [multiplayer]: id=2v2_Peninsula_Survival
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:28
@@ -34,40 +35,47 @@ msgid ""
 "<span font_size='large'>Defeat</span>\n"
 "<span foreground='red'>Death of your leader</span>"
 msgstr ""
+"<span font_size='small'>Версія: 0.3</span>\n"
+"<span font_size='small'>Створив: Roc, Morath</span>\n"
+"<span font_size='small'>Тестери: jonny</span>\n"
+"<span font_size='large'>Перемога</span>\n"
+"<span foreground='green'>Вбити ворожих лідерів</span>\n"
+"<span font_size='large'>Поразка</span>\n"
+"<span foreground='red'>Смерть вашого лідера</span>"
 
 #. [side]: id=Computer
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:44
 msgid "Monsters"
-msgstr ""
+msgstr "Монстри"
 
 #. [side]: id=West
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:64
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:118
 msgid "West"
-msgstr ""
+msgstr "Захід"
 
 #. [side]: id=East
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:82
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:100
 msgid "East"
-msgstr ""
+msgstr "Схід"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:133
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:138
 msgid "Turn 5: Mage"
-msgstr ""
+msgstr "Хід 5: Маг"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:143
 msgid "Turn 5: Nagas and Mermen"
-msgstr ""
+msgstr "Хід 5: Наги та Водяні"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:173
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:178
 msgid "Turn 8: Goblins and Ruffians"
-msgstr ""
+msgstr "Хід 5: Гобліни та Хулігани"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:206
@@ -75,18 +83,18 @@ msgstr ""
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:216
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:221
 msgid "Turn 12: Saurians"
-msgstr ""
+msgstr "Хід 12: Ящіри"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:257
 msgid "Turn 15: Sea Serpents"
-msgstr ""
+msgstr "Хід 15: Морські змії"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:272
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:277
 msgid "Turn 18: Loyalists"
-msgstr ""
+msgstr "Хід 18: Вірнопіддані"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:305
@@ -94,45 +102,45 @@ msgstr ""
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:315
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:320
 msgid "Turn 22: Ambushers"
-msgstr ""
+msgstr "Хід 22: Партизани"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:356
 msgid "Turn 25: Mermen"
-msgstr ""
+msgstr "Хід 25: Водяні"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:361
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:366
 msgid "Turn 25: Fighters"
-msgstr ""
+msgstr "Хід 25: Бійці"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:403
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:408
 msgid "Turn 29: Undead"
-msgstr ""
+msgstr "Хід 29: Нежить"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:436
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:456
 msgid "Turn 34: Dread Bat"
-msgstr ""
+msgstr "Хід 34: Жахливий кажан"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:441
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:461
 msgid "Turn 34: Giant Spider"
-msgstr ""
+msgstr "Хід 34: Гігантський павук"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:446
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:466
 msgid "Turn 34: Inferno Drake"
-msgstr ""
+msgstr "Хід 34: Пекельний дрейк"
 
 #. [label]
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:451
 #: Peninsula_Survival/scenarios/2v2_Peninsula_Survival.cfg:471
 msgid "Turn 34: Drake Warden"
-msgstr ""
+msgstr "Хід 34: Дрейк наглядач"
